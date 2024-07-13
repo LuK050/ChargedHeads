@@ -1,2 +1,2 @@
 # ChargedHeads
-Get the players heads with a charged creeper
+Get the player's heads with a charged creeper. The player's head is guaranteed to drop out after his death from a charged creeper
